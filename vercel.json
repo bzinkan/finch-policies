@@ -1,6 +1,24 @@
 {
   "cleanUrls": false,
   "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/terms.html/",
+      "destination": "/terms.html"
+    },
+    {
+      "source": "/privacy.html/",
+      "destination": "/privacy.html"
+    },
+    {
+      "source": "/terms.html/tiktok60nXJa1H38tMITZuIKmCEjsl7YdgjK0j.txt",
+      "destination": "/tiktok60nXJa1H38tMITZuIKmCEjsl7YdgjK0j.txt"
+    },
+    {
+      "source": "/privacy.html/tiktok60nXJa1H38tMITZuIKmCEjsl7YdgjK0j.txt",
+      "destination": "/tiktok60nXJa1H38tMITZuIKmCEjsl7YdgjK0j.txt"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
@@ -13,4 +31,3 @@
     }
   ]
 }
-
