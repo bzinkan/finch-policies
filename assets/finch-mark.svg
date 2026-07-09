@@ -1,0 +1,8 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Finch mark">
+  <rect x="7" y="7" width="82" height="82" rx="19" fill="#FBFAF5" stroke="#1F6F55" stroke-width="4"/>
+  <path d="M29 59C40 58 50 52 57 41C61 35 67 31 75 30C70 39 64 49 54 57C46 64 37 66 29 59Z" fill="#1F6F55"/>
+  <path d="M24 51C34 42 45 38 58 40C49 49 39 54 24 51Z" fill="#DCEAFA" stroke="#1F6F55" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M56 39C55 29 49 22 39 18C42 28 47 35 56 39Z" fill="#C95D4F"/>
+  <circle cx="67" cy="33" r="3" fill="#20252D"/>
+</svg>
+
